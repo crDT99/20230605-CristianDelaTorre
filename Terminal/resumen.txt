@@ -1,0 +1,48 @@
+
+/////////////// LISTA DE 5 COMANDOS APRENDIDOS EN CLASE ///////////////
+
+------------------------------------------------------------
+ 1. ls --> ls fag ruta
+ 
+ -- este comando lista los archivos y directorios en el directorio actual.
+
+flags:
+-l: Muestra detalles y datos adicionales
+-a: Muestra todos los archivos, incluyendo los ocultos
+-h: Muestra los tamaños en un formato legible por humanos
+-R: Lista los archivos recursivamente
+
+
+------------------------------------------------------------
+
+2. touch --> touch flag nombre_archivo
+
+-- este comando crea un archivo vacío en la ubivacion especificada.
+
+flags:
+-a: Actualiza solo la marca de tiempo de acceso.
+-m: Actualiza solo la marca de tiempo de modificación.
+
+------------------------------------------------------------
+3. pdw -->  pdw
+
+-- muestra el directorio de trabajo actual (en donde esta parada la terminal en el momento)
+
+------------------------------------------------------------
+4. mkdir --> mkdir flags nombre_directorio
+
+-- Crea una nueva carpeta en el directorio 
+
+flags:
+-p: Crea directorios padres si no existen.
+
+------------------------------------------------------------
+5.  cd --> cd ruta
+
+-- Cambia el directorio actual.
+
+flags:
+cd /: baja un nivel de directorio
+cd ..: sube un nivel de directorio
+cd ~: Cambia al directorio del usuario actual.
+------------------------------------------------------------

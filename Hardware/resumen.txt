@@ -1,0 +1,17 @@
+------------------------------------------------------------
+Tarjeta de Video: es el elemento que contiene a la GPU, sus unidades de memoria, sistema de refrigeracion y demas modulos necesarios,
+
+ejemplo: nvidia rtx 3060 ti
+------------------------------------------------------------
+CPU - sus siglas hacen referencia a (Central Prosesing Unit), es el cerebro de la computadora puede tener uno o multiples nucleos
+
+ej: AMD Ryzen 5 5600x
+
+------------------------------------------------------------
+Memoria Ram: son los modulos de memoria volatil de los que se apoya el procesador para almacenar la informacion que no requiere en ese presiso instante, puede acceder de manera "random" a informacion 
+
+
+
+------------------------------------------------------------
+
+
