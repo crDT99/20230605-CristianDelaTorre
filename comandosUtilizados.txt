@@ -1,0 +1,26 @@
+ COMANDOS UTILIZADOS :::
+  -- -----------
+   2 git init
+   3 git remote add origin https://github.com/crDT99/20230605-CristianDelaTorre.git
+   4 git branch -M main
+   5 git status
+   6 git add .
+   7 git commit -m "commit 01 de CristianDelaTorre"
+   8 git push origin main
+   9 git branch feature01
+  10 git branch
+  11 git checkout feature01
+  12 git branch
+  13 git status
+  14 git add .
+  15 git commit -m "commit 02 de CristianDelaTorre"
+  16 git push origin feature01
+  17 git branch feature02
+  18 git checkout feature02
+  19 git status
+  20 git branch
+  21 git add .
+  22 git commit -m "commit 03 de CristianDelaTorre"
+  23 git push origin feature02
+  24 git checkout main
+  25 mv .\comandos.txt comandosUtilizados.txt
